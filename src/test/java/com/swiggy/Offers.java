@@ -28,7 +28,6 @@ public class Offers {
 	static WebDriver driver;
 	static Wait wait;
 	static String user;
-	static String Username;
 	static int in;
 	
 	//precondition
