@@ -31,6 +31,7 @@ public class Offers {
 	static String Username;
 	static int in;
 	static int out;
+	
 	//precondition
 	@BeforeClass
 	public static void applicationLaunch() throws FileNotFoundException {
