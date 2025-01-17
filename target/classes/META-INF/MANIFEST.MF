@@ -1,9 +1,4 @@
 Manifest-Version: 1.0
-<<<<<<< HEAD
-Built-By: ishua
-Build-Jdk: 17.0.4.1
-=======
-Build-Jdk-Spec: 23
->>>>>>> 03b8e68671def098faa433491d4909d739ac1e50
+Build-Jdk-Spec: 21
 Created-By: Maven Integration for Eclipse
 
